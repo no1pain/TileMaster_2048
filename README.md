@@ -11,7 +11,7 @@ This project is a 2048 game implementation, showcasing the use of modern web tec
 **Git**: For version control.<br>
 **SCSS**: CSS preprocessor.<br>
 
-**DEMO LINK**<br>
+**[DEMO LINK](https://no1pain.github.io/TileMaster_2048/)**<br>
 
 **Instructions to Run Locally**<br>
 
